@@ -1,0 +1,19 @@
+body{
+     background-image: url(./record.png);
+     background-repeat: repeat;
+     margin: 0;
+
+}
+
+.header{
+     background-color: rgb(23, 0, 39);
+     color: bisque;
+     text-align: center;
+
+}
+
+.content{
+     background-color: lightgray;
+     padding: 1em;
+
+}
